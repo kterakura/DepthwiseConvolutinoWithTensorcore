@@ -1,0 +1,4 @@
+[
+  { "count" : 251563 }
+, { "name" : "/conv1/Conv", "timeMs" : 1159.54, "averageMs" : 0.00460934, "medianMs" : 0.004448, "percentage" : 100 }
+]
