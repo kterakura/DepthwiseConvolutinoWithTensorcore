@@ -1,4 +1,4 @@
-# Depthwise COnvolution with Tensor Cores
+# Depthwise Convolution with Tensor Cores
 以下の論文をDepthwise COnvolutionに応用してみました。  
 Liu, Junhong, Dongxu Yang, and Junjie Lai. "Optimizing winograd-based convolution with tensor cores." Proceedings of the 50th International Conference on Parallel Processing. 2021.  
 https://dl.acm.org/doi/abs/10.1145/3472456.3472473  
